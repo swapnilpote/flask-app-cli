@@ -13,4 +13,4 @@ shellingham==1.4.0
 toml==0.10.2
 typer==0.4.0
 typing_extensions==4.0.0
-zipp==3.6.0
+zipp==3.19.1
